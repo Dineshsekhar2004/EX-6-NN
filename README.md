@@ -1,5 +1,5 @@
-<H3>NAME : Deepika S</H3>
-<H3>REGISTER NO : 212222230028</H3>
+<H3>NAME : Dinesh S</H3>
+<H3>REGISTER NO : 212222230033</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
